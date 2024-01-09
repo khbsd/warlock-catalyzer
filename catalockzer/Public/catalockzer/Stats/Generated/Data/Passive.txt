@@ -1,0 +1,8 @@
+new entry "KHB_InternalBrine_Passive"
+type "PassiveData"
+data "DisplayName" "KHB_internalBrineDisplayName"
+data "Description" "KHB_internalBrineDescription"
+data "Properties" "Hidden"
+data "StatsFunctorContext" "OnDamaged"
+data "StatsFunctors" "CreateSurface(1, -1, Acid)"
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="KHB_BatteryCharge_Description" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="KHB_BatteryCharge_Description" version="1" />
+                    <attribute id="IsSpellResource" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="KHB_BatteryCharge_Resource" />
+                    <attribute id="PartyActionResource" type="bool" value="false" />
+                    <attribute id="ReplenishType" type="FixedString" value="Rest" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="1e058c7d-c3eb-4505-a7bb-1a46fb9ab220" />
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

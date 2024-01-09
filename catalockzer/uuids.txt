@@ -1,7 +1,19 @@
 meta.lsx mod UUID: 840f0d3a-06d9-4c20-a86f-cf7327a9e395
 
-PassiveLists.lsx pact select UUID: afa04a6c-7670-4822-816e-aece4e58c2b1
-PassiveLists.lsx pact bonus select UUID: d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5
+PassiveLists.lsx patron UUID: afa04a6c-7670-4822-816e-aece4e58c2b1
+PassiveLists.lsx pact select UUID: d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5
+PassiveLists.lsx catalysts select UUID: d99520c7-cd81-4d48-a8d9-765a1821f33b
+SpellLists.lsx Electrolysis UUID: 67fca71d-11c2-461b-9329-4b29af796392
+ActionResourceDefinitions.lsx BatteryCharge UUID: 1e058c7d-c3eb-4505-a7bb-1a46fb9ab220
+
 Progressions.lsx ParentGuid UUID: 4ea870b0-c4c5-4af4-a944-4d7159681052
 ClassDescriptions.lsx ProgressionTableUUID: c2b31df6-107a-46d8-b865-035014c1726e
 ClassDescriptions.lsx UUID UUID: b2dd3c37-291c-4096-858e-1927c100dde0
+
+Catalyzer lv3 UUID: 9e3a6b50-9489-4324-ba0d-1415cb750c01
+Catalyzer lv4 UUID: ef0251db-79ac-456a-be45-181edbdea4ad
+Catalyzer lv6 UUID: 69585303-9df3-4651-9e8b-ff811928b649
+Catalyzer lv8 UUID: 4db99623-5a73-4e78-a578-20999245bf25
+Catalyzer lv9 UUID: 89edd88a-7bfb-4514-80e4-93412cfe224a
+Catalyzer lv10 UUID: 89db2398-c6ed-489a-8f95-28fcc86dcba2
+Catalyzer lv12 UUID: 5926e6a3-ed1c-4c03-9af2-777c3818efe8

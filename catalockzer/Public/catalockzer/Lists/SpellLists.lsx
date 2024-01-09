@@ -6,8 +6,8 @@
             <children>
                 <node id="SpellList">
           			<attribute id="Comment" type="LSString" value="Formless Cantrips" />
-          			<attribute id="Spells" type="LSString" value="NIT_Projectile_BloodBlast" />
-          			<attribute id="UUID" type="guid" value="c30c213d-7250-4c7c-acc7-87a49e799199" />
+          			<attribute id="Spells" type="LSString" value="KHB_Electrolysis" />
+          			<attribute id="UUID" type="guid" value="67fca71d-11c2-461b-9329-4b29af796392" />
         		</node>
       		</children>
     	</node>

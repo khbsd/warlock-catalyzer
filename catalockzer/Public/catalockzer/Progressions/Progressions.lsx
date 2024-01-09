@@ -32,14 +32,75 @@
                         </node>
                     </children>
                 </node>
-                <node id="Progression"> Catalyzer 1
+                <node id="Progression"> Catalyzer 3
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Catalyzer" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
+                    <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
+                    <attribute id="UUID" type="guid" value="9e3a6b50-9489-4324-ba0d-1415cb750c01" />
+                </node>
+                <node id="Progression"> Catalyzer 4
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="Catalyzer" />
-                    <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="NIT_MortalReminder_Death_Passive;" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(c30c213d-7250-4c7c-acc7-87a49e799199,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(bee27386-9cf3-4ae9-ac09-4315e6c6fc44,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(66dae1d5-d8a5-44fa-8bec-30d8b8ecab44,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
                     <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
-                    <attribute id="UUID" type="guid" value="3826ecf2-7ee9-4ede-9b9f-44ece5c7ae94" />
+                    <attribute id="UUID" type="guid" value="ef0251db-79ac-456a-be45-181edbdea4ad" />
+                </node>
+                <node id="Progression"> Catalyzer 6
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Catalyzer" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
+                    <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
+                    <attribute id="UUID" type="guid" value="69585303-9df3-4651-9e8b-ff811928b649" />
+                </node>
+                <node id="Progression"> Catalyzer 8
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Catalyzer" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
+                    <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
+                    <attribute id="UUID" type="guid" value="4db99623-5a73-4e78-a578-20999245bf25" />
+                </node>
+                <node id="Progression"> Catalyzer 9
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Catalyzer" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
+                    <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
+                    <attribute id="UUID" type="guid" value="89edd88a-7bfb-4514-80e4-93412cfe224a" />
+                </node>
+                <node id="Progression"> Catalyzer 10
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Catalyzer" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
+                    <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
+                    <attribute id="UUID" type="guid" value="89db2398-c6ed-489a-8f95-28fcc86dcba2" />
+                </node>
+                <node id="Progression"> Catalyzer 12
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Catalyzer" />
+                    <attribute id="ProgressionType" type="uint8" value="3" />
+                    <attribute id="PassivesAdded" type="LSString" value="KHB_InternalBrine_Passive" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(KHB_BatteryCharge_Resource, 1, 0)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5,1,PactBoon)" />
+                    <attribute id="TableUUID" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
+                    <attribute id="UUID" type="guid" value="5926e6a3-ed1c-4c03-9af2-777c3818efe8" />
                 </node>
             </children>
         </node>
