@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
-  <region id="ProgressionDescriptions">
-    <node id="root">
-      <children>
-        <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h88698d17gf24eg459bgbc1fge8365d5adfc5" version="1" /> Subclass Description
-                    <attribute id="DisplayName" type="TranslatedString" handle="h5d84cb4fg34e4g4297g94a8g4e318f17659d" version="1" /> Subclass Name
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h88698d17gf24eg459bgbc1fge8365d5adfc5" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5d84cb4fg34e4g4297g94a8g4e318f17659d" version="1" />
                     <attribute id="Type" type="FixedString" value="Formless" />
-					<attribute id="ProgressionTableId" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="ProgressionTableId" type="guid" value="c2b31df6-107a-46d8-b865-035014c1726e" />
                     <attribute id="UUID" type="guid" value="ebbddc0a-0f73-4284-9046-c789b3a11aa9" />
                 </node>
-      </children>
-    </node>
-  </region>
+            </children>
+        </node>
+    </region>
 </save>

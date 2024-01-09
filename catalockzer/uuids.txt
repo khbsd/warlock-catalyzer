@@ -1,0 +1,7 @@
+meta.lsx mod UUID: 840f0d3a-06d9-4c20-a86f-cf7327a9e395
+
+PassiveLists.lsx pact select UUID: afa04a6c-7670-4822-816e-aece4e58c2b1
+PassiveLists.lsx pact bonus select UUID: d1e13fb1-8d21-4033-8f77-f0e2a2ab4da5
+Progressions.lsx ParentGuid UUID: 4ea870b0-c4c5-4af4-a944-4d7159681052
+ClassDescriptions.lsx ProgressionTableUUID: c2b31df6-107a-46d8-b865-035014c1726e
+ClassDescriptions.lsx UUID UUID: b2dd3c37-291c-4096-858e-1927c100dde0

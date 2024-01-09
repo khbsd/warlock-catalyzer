@@ -1,75 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-  <version major="4" minor="0" revision="9" build="328" />
-  <region id="SpellLists">
-    <node id="root">
-      <children>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless Cantrips" />
-                    <attribute id="Spells" type="LSString" value="NIT_Projectile_BloodBlast" />
-                    <attribute id="UUID" type="guid" value="c30c213d-7250-4c7c-acc7-87a49e799199" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless Spells 1" />
-                    <attribute id="Spells" type="LSString" value="NIT_Projectile_BloodShard" />
-                    <attribute id="UUID" type="guid" value="bee27386-9cf3-4ae9-ac09-4315e6c6fc44" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless Spells 2" />
-                    <attribute id="Spells" type="LSString" value="NIT_Target_SwarmOfFlies" />
-                    <attribute id="UUID" type="guid" value="c20ad0b6-56ac-4652-9750-79d788eff540" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Warlock Common Spells SLevel 1" />
-                    <attribute id="Spells" type="LSString" value="Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;;Projectile_WitchBolt" />
-                    <attribute id="UUID" type="guid" value="66dae1d5-d8a5-44fa-8bec-30d8b8ecab44" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Warlock Common Spells SLevel 2" />
-                    <attribute id="Spells" type="LSString" value=";Target_CloudOfDaggers;Target_CrownOfMadness;Target_Darkness;Target_Enthrall;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;;Projectile_RayOfEnfeeblement;Target_Shatter;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;;Projectile_WitchBolt" />
-                    <attribute id="UUID" type="guid" value="3d8aca72-4ade-4998-ac66-8b2f35dd9c9c" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Warlock Common Spells SLevel 3" />
-                    <attribute id="Spells" type="LSString" value="Target_Counterspell;Zone_Fear;Target_Fly;Target_GaseousForm;Target_HungerOfHadar;Target_HypnoticPattern;Target_RemoveCurse;;Target_VampiricTouch;Target_CloudOfDaggers;Target_CrownOfMadness;Target_Darkness;Target_Enthrall;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Target_Shatter;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt" />
-                    <attribute id="UUID" type="guid" value="63829e63-a0af-43b8-93b3-0a9befc9652e" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless Spells 3" />
-                    <attribute id="Spells" type="LSString" value="NIT_Target_BloodRune" />
-                    <attribute id="UUID" type="guid" value="8193c8f8-46ac-4756-84bb-a3f7b0eb3ed4" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Warlock Common Spells 4" />
-                    <attribute id="Spells" type="LSString" value="Target_Banishment;Target_Blight;Teleportation_DimensionDoor;Target_Counterspell;Zone_Fear;Target_Fly;Target_GaseousForm;Target_HungerOfHadar;Target_HypnoticPattern;Target_RemoveCurse;Target_VampiricTouch;Target_CloudOfDaggers;Target_CrownOfMadness;Target_Darkness;Target_Enthrall;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Target_Shatter;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt" />
-                    <attribute id="UUID" type="guid" value="8b14dcd5-df44-4800-8b37-b0086c072b0d" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless Spells 4" />
-                    <attribute id="Spells" type="LSString" value="NIT_Shout_VileBlood;NIT_Target_BloodStorm" />
-                    <attribute id="UUID" type="guid" value="8070f31f-2f75-45cb-b7c3-7de9bdbe19a5" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Warlock Common Spells 5" />
-                    <attribute id="Spells" type="LSString" value="Target_HoldMonster;Target_Banishment;Target_Blight;Teleportation_DimensionDoor;Target_Counterspell;Zone_Fear;Target_Fly;Target_GaseousForm;Target_HungerOfHadar;Target_HypnoticPattern;Target_RemoveCurse;Target_VampiricTouch;Target_CloudOfDaggers;Target_CrownOfMadness;Target_Darkness;Target_Enthrall;Target_HoldPerson;Target_Invisibility;Shout_MirrorImage;Target_MistyStep;Projectile_RayOfEnfeeblement;Target_Shatter;Shout_ArmorOfAgathys;Shout_ArmsOfHadar;Target_CharmPerson;Shout_ExpeditiousRetreat;Shout_HellishRebuke;Target_Hex;Target_ProtectionFromEvilAndGood;Projectile_WitchBolt" />
-                    <attribute id="UUID" type="guid" value="eb5aaaa0-bde0-4320-ab76-d0e78baabb3f" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless Spells 5" />
-                    <attribute id="Spells" type="LSString" value="NIT_Projectile_Affinity" />
-                    <attribute id="UUID" type="guid" value="0fb5076f-0da7-4417-975a-9ade3b78883b" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless 2" />
-                    <attribute id="Spells" type="LSString" value="NIT_Shout_InsightOfTheMother_Self" />
-                    <attribute id="UUID" type="guid" value="af7f90bc-0fc1-49db-be78-20252e6b0a09" />
-                </node>
-        <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Formless 7" />
-                    <attribute id="Spells" type="LSString" value="NIT_Shout_GiftOfTheVileBlood_Self" />
-                    <attribute id="UUID" type="guid" value="b6bb0284-1dee-4166-9b57-2ee3bf006c01" />
-                </node>
-      </children>
-    </node>
-  </region>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+          			<attribute id="Comment" type="LSString" value="Formless Cantrips" />
+          			<attribute id="Spells" type="LSString" value="NIT_Projectile_BloodBlast" />
+          			<attribute id="UUID" type="guid" value="c30c213d-7250-4c7c-acc7-87a49e799199" />
+        		</node>
+      		</children>
+    	</node>
+  	</region>
 </save>
