@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+					<attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="Description" type="TranslatedString" handle="h88698d17gf24eg459bgbc1fge8365d5adfc5" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="h5d84cb4fg34e4g4297g94a8g4e318f17659d" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="Name" type="FixedString" value="Formless" /> 
+                    <attribute id="ParentGuid" type="guid" value="a7767dc5-e6ab-4e05-96fd-f0424256121c" />
+                    <attribute id="PrimaryAbility" type="uint8" value="6" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="SoundClassType" type="FixedString" value="Warlock" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+					<attribute id="SpellList" type="guid" value="ffd3b636-d424-4120-87ae-4499a34828dc" />
+                    <attribute id="UUID" type="guid" value="b50bbba5-6037-4f43-a197-68972e70486e" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,15 @@
+game.configs.Formless_Trap_Small = Config{
+    params={
+        Projectile = {
+            type = EParamType.String,
+            help = [[The projectile that explodes]],
+            required = false,
+            default = [[Projectile_Fireball_Trap]]
+        },
+    },
+    root=StateRef{game.roots.DefaultTrap,
+        logic = StateRef{game.states.Formless_Trap_Small,
+            Projectile = params.Projectile,
+        },
+    }
+}

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(SimpleWeapons)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Warlock" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(675236ba-c3cc-44ec-a58b-0e46351c85bd,2);SelectSpells(f5c4af9c-5d8d-4526-9057-94a4b243cd40,2,0,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+                    <attribute id="TableUUID" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377" />
+                    <attribute id="UUID" type="guid" value="a7767dc5-e6ab-4e05-96fd-f0424256121c" />
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="8866db28-7dda-4fd6-93ed-20eca16314f0" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="e1e4a21f-9405-46ec-81a0-ccc8d58d9736" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="733ddf8c-9ec4-4c5a-85e3-c70fd3df3c24" />
+                                </node>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="b50bbba5-6037-4f43-a197-68972e70486e" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+        <node id="Progression"> Formless 1
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_MortalReminder_Death_Passive;" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(c30c213d-7250-4c7c-acc7-87a49e799199,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(bee27386-9cf3-4ae9-ac09-4315e6c6fc44,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(66dae1d5-d8a5-44fa-8bec-30d8b8ecab44,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="3826ecf2-7ee9-4ede-9b9f-44ece5c7ae94" />
+                </node>
+        <node id="Progression"> Formless 2
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(af7f90bc-0fc1-49db-be78-20252e6b0a09,1,0,,,,AlwaysPrepared);SelectSpells(66dae1d5-d8a5-44fa-8bec-30d8b8ecab44,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="4472643a-d106-449e-a10a-c00cbb15f667" />
+                </node>
+        <node id="Progression"> Formless 3
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(c20ad0b6-56ac-4652-9750-79d788eff540,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(3d8aca72-4ade-4998-ac66-8b2f35dd9c9c,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="2a131d05-1795-4391-9648-c96fb0ee87c5" />
+                </node>
+        <node id="Progression"> Formless 5
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8193c8f8-46ac-4756-84bb-a3f7b0eb3ed4,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(63829e63-a0af-43b8-93b3-0a9befc9652e,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="bad1d38f-59c3-4c67-a47d-50a1c764c1c3" />
+                </node>
+        <node id="Progression"> Formless 6
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="EntropicWard" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(63829e63-a0af-43b8-93b3-0a9befc9652e,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a);" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="65ec273f-8b50-4f61-a52c-d04f78f7f6a0" />
+                </node>
+        <node id="Progression"> Formless 7
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(b6bb0284-1dee-4166-9b57-2ee3bf006c01,1,0,,,,AlwaysPrepared);SelectSpells(8070f31f-2f75-45cb-b7c3-7de9bdbe19a5,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(8b14dcd5-df44-4800-8b37-b0086c072b0d,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="943eadb8-189f-41f5-a6ee-38c338a9ea04" />
+                </node>
+        <node id="Progression"> Formless 8
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8b14dcd5-df44-4800-8b37-b0086c072b0d,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="0757a4e6-9342-4af2-9c51-137ba6c9d975" />
+                </node>
+        <node id="Progression"> Formless 9
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_Soulstealer_Passive" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(0fb5076f-0da7-4417-975a-9ade3b78883b,1,0,,,e9127b70-22b7-42a1-b172-d02f828f260a,AlwaysPrepared);SelectSpells(eb5aaaa0-bde0-4320-ab76-d0e78baabb3f,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="7791e361-8082-489b-9c09-ebfe9be37897" />
+                </node>
+        <node id="Progression"> Formless 10
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="Thought_Shield_Psychic_Resistance;Thought_Shield_Psychic_Reflection" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(eb5aaaa0-bde0-4320-ab76-d0e78baabb3f,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="15ad396b-e446-4a7c-8dc7-37f5a12e5fa7" />
+                </node>
+        <node id="Progression"> Formless 11
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="NIT_InvigoratingSlaughter_Passive" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(eb5aaaa0-bde0-4320-ab76-d0e78baabb3f,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="06b55610-61e4-4f58-a67b-36539c962b8c" />
+                </node>
+        <node id="Progression"> Formless 12
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="Formless" />
+                    <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(eb5aaaa0-bde0-4320-ab76-d0e78baabb3f,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)" />
+                    <attribute id="TableUUID" type="guid" value="11e9f190-e96a-44dd-9b2c-bee5b41d2a6b" />
+                    <attribute id="UUID" type="guid" value="e16ea849-8bbe-4a6d-bf78-a8c6624db857" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

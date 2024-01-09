@@ -1,0 +1,15 @@
+{
+    "FileVersion": 1,
+    "Progressions": [
+      {
+        "UUID": "a7767dc5-e6ab-4e05-96fd-f0424256121c",
+        "Subclasses": [
+          {
+            "UUID": "b50bbba5-6037-4f43-a197-68972e70486e",
+            "modGuid": "ca178e33-4534-4d02-b40c-ae25fe885647",
+            "Comment": "Path of the Fundamental Chaos"
+          }
+        ]
+      }
+    ]
+  }
